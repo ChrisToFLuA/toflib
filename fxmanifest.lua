@@ -11,6 +11,7 @@ repository   'https://github.com/ChrisToFLuA/toflib'
 
 server_scripts {
 	'@mysql-async/lib/MySQL.lua',
+	'server/inittoflib.lua',
 	'server/functionssrv.lua',
 	'server/functionstkdrugs.lua',
 	'server/tksrv.lua',
